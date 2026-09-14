@@ -24,21 +24,35 @@ The fabrication workflow integrates redistribution-layer formation with through-
 ### Part A — Redistribution Layer (RDL) Fabrication
 
 1. **ABF Dielectric Lamination**
+   
+![Dielectric Lamination](figures/dielectric_lamination.png)
+
    ABF GL-102 dielectric film was laminated and cured on the glass substrate.
 
-3. **Surface Preparation & Seed Layer Deposition**  
+3. **Surface Preparation & Seed Layer Deposition**
+
+ ![Seed Layer Deposition](figures/seed_layer_deposition.png)
+ 
    Ar/O₂ reactive ion etching (RIE) was used for surface preparation, followed by sputter deposition of a Ti/Cu seed layer.
 
-4. **Photolithography**  
+5. **Photolithography**
+
+ ![Photolithography](figures/photolithography.png)
+
    Dry-film negative photoresist was patterned using maskless lithography to define the redistribution-layer features.
 
-5. **Copper Electroplating**
+7. **Copper Electroplating**
     
 ![Copper Electroplating](figures/copper_electroplating.png)
 
    Copper was selectively electroplated into the patterned photoresist mold to form the RDL.
 
-6. **Photoresist Stripping & Seed-Layer Removal**  
+6. **Photoresist Stripping & Seed-Layer Removal**
+
+![Photoresist Stripping](figures/photoresist_striping.png)
+
+![Seed-Layer Removal](figures/cu_removal.png)
+
    The photoresist and exposed Cu/Ti seed layers were removed to isolate the patterned copper traces.
 
 ### Part B — TGV Formation & Die Embedding
