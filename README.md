@@ -57,24 +57,43 @@ The fabrication workflow integrates redistribution-layer formation with through-
 
 ### Part B — TGV Formation & Die Embedding
 
-6. **Through-Glass Via (TGV) & Cavity Formation**  
+6. **Through-Glass Via (TGV) & Cavity Formation**
+
+![TGV Laser Drilling](figures/tgv_laser_drilling.png)
+
    Femtosecond laser machining was used to fabricate TGVs and the die cavity in the glass substrate.
 
-7. **Die Placement & Embedding**  
+8. **Die Placement & Embedding**
+
+![Die Embedding](figures/die_embedding.jpg)
+
    A die was aligned and placed inside the laser-machined cavity using a flip-chip bonding system.
 
-8. **ABF Encapsulation**  
+10. **ABF Encapsulation**
+
+![Thermal Release Tape](figures/thermal_tape.png)
+
+![Die Embedding](figures/abf_lamination.png)
+
    Additional ABF dielectric layers were laminated around the embedded die.
 
-9. **Flycut Planarization**  
+12. **Flycut Planarization**
+
+![Flycut Planarization](figures/flycut_planarization.png)
+
    Diamond flycutting was used to reduce surface non-uniformity and improve substrate planarity.
 
-10. **Via-in-Via Formation**  
-    Laser ablation was used to form vias through the ABF within the TGV footprints for subsequent interconnection.
+14. **Via-in-Via Formation**
 
-    ---
+![Via-in-Via Fabrication](figures/viv_fab.png)
 
-    ## Characterization & Metrology
+![Via-in-Via Alignment](figures/via_in_via_alignment.png)
+
+   Laser ablation was used to form vias through the ABF within the TGV footprints for subsequent interconnection.
+
+  ---
+  
+## Characterization & Metrology
 
 Multiple techniques were used to evaluate the fabricated glass-core package throughout the process flow.
 
