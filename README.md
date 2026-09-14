@@ -17,9 +17,11 @@ The project provided hands-on experience across the complete advanced-packaging 
 
 ---
 
-## Fabrication Process
+## Process Flow
 
-The glass-core package was fabricated through a multi-step process integrating dielectric, metallization, patterning, laser micromachining, and die-embedding techniques.
+![Glass Core Packaging Fabrication Process](figures/fabrication_process_flow.png)
+
+The fabrication workflow integrates redistribution-layer formation with through-glass via fabrication, die embedding, planarization, and via-in-via processing.
 
 ### Part A — Redistribution Layer (RDL) Fabrication
 
