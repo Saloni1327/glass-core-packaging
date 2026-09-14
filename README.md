@@ -19,25 +19,26 @@ The project provided hands-on experience across the complete advanced-packaging 
 
 ## Process Flow
 
-![Glass Core Packaging Fabrication Process](figures/fabrication_process_flow.png)
-
 The fabrication workflow integrates redistribution-layer formation with through-glass via fabrication, die embedding, planarization, and via-in-via processing.
 
 ### Part A — Redistribution Layer (RDL) Fabrication
 
-1. **ABF Dielectric Lamination**  
+1. **ABF Dielectric Lamination**
    ABF GL-102 dielectric film was laminated and cured on the glass substrate.
 
-2. **Surface Preparation & Seed Layer Deposition**  
+3. **Surface Preparation & Seed Layer Deposition**  
    Ar/O₂ reactive ion etching (RIE) was used for surface preparation, followed by sputter deposition of a Ti/Cu seed layer.
 
-3. **Photolithography**  
+4. **Photolithography**  
    Dry-film negative photoresist was patterned using maskless lithography to define the redistribution-layer features.
 
-4. **Copper Electroplating**  
+5. **Copper Electroplating**
+    
+![Copper Electroplating](figures/copper_electroplating.png)
+
    Copper was selectively electroplated into the patterned photoresist mold to form the RDL.
 
-5. **Photoresist Stripping & Seed-Layer Removal**  
+6. **Photoresist Stripping & Seed-Layer Removal**  
    The photoresist and exposed Cu/Ti seed layers were removed to isolate the patterned copper traces.
 
 ### Part B — TGV Formation & Die Embedding
